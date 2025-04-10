@@ -1,0 +1,8 @@
+{
+  "weather": {
+    "command": "/Users/mokoshi/.anyenv/envs/nodenv/shims/node",
+    "args": [
+      "/Users/mokoshi/projects/mcp-server-test/weather/build/index.js"
+    ]
+  }
+}
